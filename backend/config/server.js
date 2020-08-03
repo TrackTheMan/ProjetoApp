@@ -14,3 +14,5 @@ server.listen(port, function () {
 server.use(function (req, res, next) {
     res.send('Funcionou')
 })
+
+module.exports = server
