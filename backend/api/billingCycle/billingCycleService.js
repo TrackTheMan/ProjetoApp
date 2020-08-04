@@ -1,5 +1,5 @@
-const BillinCycle = require('./billingCycle')
+const BillingCycle = require('./billingCycle')
 
-BillinCycle.methods(['get', 'post', 'put', 'delete'])
+BillingCycle.methods(['get', 'post', 'put', 'delete'])
 
-module.exports = BillinCycle
+module.exports = BillingCycle
