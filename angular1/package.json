@@ -4,12 +4,11 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "gulp",
     "production": "gulp --production"
   },
   "keywords": [],
-  "author": "",
+  "author": "Rafael",
   "license": "ISC",
   "devDependencies": {
     "admin-lte": "2.3.11",
