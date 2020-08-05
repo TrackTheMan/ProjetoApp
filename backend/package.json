@@ -14,6 +14,7 @@
     "express": "^4.17.1",
     "express-query-int": "^3.0.0",
     "lodash": "^4.17.19",
+    "mongoclient": "^1.0.3",
     "mongoose": "^5.9.27",
     "mongoose-paginate": "^5.0.3",
     "node-restful": "^0.2.6",
